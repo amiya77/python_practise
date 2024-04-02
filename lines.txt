@@ -3,3 +3,6 @@
 3- Coconut
 4- Guava
 5- grapes
+
+Hi . I am Amiya, having 4 years of experience in DevOps Domain. Along with this i have beginner level of knowledge in Python, ShellScript.
+So DevOps is an culture. Without DevOps the deployment process happens very slow.it having much & more satages are there like code fetching, building , security scanning, etc. So DevOps is an one of the best process in the current world.

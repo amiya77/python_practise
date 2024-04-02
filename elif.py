@@ -12,15 +12,15 @@
 # if __name__ == "__main__": main()
 
 
-# def main():
-#     a, b = 10, 20
-#     if a < b:
-#         result = 'this is true'
-#     else: 
-#         result = 'this is not true'
-#     print(result)
+def main():
+    a, b = 10, 20
+    if a < b:
+        result = 'this is true'
+    else: 
+        result = 'this is not true'
+    print(result)
 
-# if __name__== "__main__": main()
+if __name__== "__main__": main()
 
 
 #code reduction
