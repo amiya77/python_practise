@@ -58,7 +58,7 @@ def add_3_generator(start, end):
     current = start
     while current <= end:
         yield current
-        current += 3
+        current += 3``
 print("\n using generator function : ")
 generator = add_3_generator(8, 25)
 for num in generator:
