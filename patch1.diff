@@ -1,0 +1,7 @@
+diff --git a/a1.json b/a1.json
+new file mode 100644
+index 0000000..0a57a0f
+--- /dev/null
++++ b/a1.json
+@@ -0,0 +1 @@
++param
