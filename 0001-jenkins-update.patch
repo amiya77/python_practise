@@ -1,0 +1,22 @@
+From ce15603ff3d333daa431ccb2976ccf89fcac4ea3 Mon Sep 17 00:00:00 2001
+From: amiya77 <bikuamiya@gmail.com>
+Date: Sat, 21 Sep 2024 16:25:00 +0000
+Subject: [PATCH] jenkins update
+
+---
+ Jenkinsfile | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/Jenkinsfile b/Jenkinsfile
+index 5d498e0..c0c4cb5 100644
+--- a/Jenkinsfile
++++ b/Jenkinsfile
+@@ -1,4 +1,4 @@
+-pipeline {
++ipeline {
+     agent {label 'master'}
+ 
+     stages {
+-- 
+2.34.1
+

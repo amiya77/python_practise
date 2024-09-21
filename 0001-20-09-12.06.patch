@@ -1,0 +1,64 @@
+From e516c7868de4d67681d294ab94cf6e323d250cdf Mon Sep 17 00:00:00 2001
+From: root <root@ip-172-31-8-240.ap-south-1.compute.internal>
+Date: Fri, 20 Sep 2024 06:36:35 +0000
+Subject: [PATCH] 20-09-12.06
+
+---
+ t6.py | 45 +++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 45 insertions(+)
+ create mode 100644 t6.py
+
+diff --git a/t6.py b/t6.py
+new file mode 100644
+index 0000000..84c1b7b
+--- /dev/null
++++ b/t6.py
+@@ -0,0 +1,45 @@
++{
++  "addition": [
++    {
++      "number": 1,
++      "result": 1
++    },
++    {
++      "number": 2,
++      "result": 3
++    },
++    {
++      "number": 3,
++      "result": 6
++    },
++    {
++      "number": 4,
++      "result": 10
++    },
++    {
++      "number": 5,
++      "result": 15
++    },
++    {
++      "number": 6,
++      "result": 21
++    },
++    {
++      "number": 7,
++      "result": 28
++    },
++    {
++      "number": 8,
++      "result": 36
++    },
++    {
++      "number": 9,
++      "result": 45
++    },
++    {
++      "number": 10,
++      "result": 55
++    }
++  ]
++}
++
+-- 
+2.34.1
+

@@ -1,0 +1,29 @@
+From 6b4945e63e4c9fc59648c9b83a180b51157c6c92 Mon Sep 17 00:00:00 2001
+From: root <root@ip-172-31-8-240.ap-south-1.compute.internal>
+Date: Fri, 20 Sep 2024 06:40:23 +0000
+Subject: [PATCH] 20-09-12.09
+
+---
+ a1.json | 1 -
+ a1.sh   | 1 -
+ 2 files changed, 2 deletions(-)
+ delete mode 100644 a1.json
+ delete mode 100644 a1.sh
+
+diff --git a/a1.json b/a1.json
+deleted file mode 100644
+index 0a57a0f..0000000
+--- a/a1.json
++++ /dev/null
+@@ -1 +0,0 @@
+-param
+diff --git a/a1.sh b/a1.sh
+deleted file mode 100644
+index 7c0dffd..0000000
+--- a/a1.sh
++++ /dev/null
+@@ -1 +0,0 @@
+-echo hello world
+-- 
+2.34.1
+
